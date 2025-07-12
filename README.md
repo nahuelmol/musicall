@@ -1,8 +1,14 @@
+  <img src="https://img.shields.io/github/last-commit/nahuelmol/musicall"/>
+  <img src="https://img.shields.io/github/languages/code-size/nahuelmol/musicall"/>
+  <img src="https://img.shields.io/github/languages/top/nahuelmol/musicall"/>
+    <img src="https://img.shields.io/github/languages/count/nahuelmol/musicall"/>
+</div>
+
 Sound waves propagates along the crust and are detected by different microphones installed in the surface.
 
 ### This application..
-..will take the shot-frequency, information of the target being located, amount of recpetors dispersed, etc.
-From that input an wave image is generated as an output. This way different dimensiones and how diposed a body is underground can be proved, simulating varied situations. 
+..will take the shot-frequency, information of the target being located, amount of receptors dispersed, etc.
+From that input, an wave image is generated as an output. This way, different dimensiones and how disposed a body is underground can be proved, simulating varied situations. 
 
 ### Goals
 
